@@ -1,0 +1,19 @@
+.element::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, and Edge */
+  }
+
+ 
+
+
+body{
+  justify-content: center;
+  height: 100vh;
+
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  background:radial-gradient(#063015,#0a2210,#061309)
+/* background:linear-gradient (#0C2313,#091F0D)  */
+
+
+  }
+
